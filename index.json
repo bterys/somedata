@@ -1,13 +1,18 @@
 [
-  ["达芬奇","http://s1.cdn.bterys.com/mh-025/info.json"],
-  ["伦勃朗","http://s1.cdn.bterys.com/mh005/info.json"],
-  ["梵高","http://s1.cdn.bterys.com/mh001/info.json"],
-  ["波提切利","http://s1.cdn.bterys.com/mh016/info.json"],
-  ["丢勒","http://s1.cdn.bterys.com/mh027/info.json"],
-  ["列维坦","http://s1.cdn.bterys.com/mh000e/info.json"],
-  ["夏加尔","http://s1.cdn.bterys.com/mh-030/info.json"],
-  ["格勒兹","http://s1.cdn.bterys.com/mh000b/info.json"],
-  ["佛雷德里克莱顿","http://s1.cdn.bterys.com/mh000c/info.json"],
-  ["列宾","http://s1.cdn.bterys.com/mh000d/info.json"],
-  ["现实主义 埃金斯","http://s1.cdn.bterys.com/mh-076/info.json"]
+  ["列维坦", "http://s1.cdn.bterys.com/mh000e/info.json"],
+  ["格勒兹", "http://s1.cdn.bterys.com/mh000b/info.json"],
+  ["佛雷德里克莱顿", "http://s1.cdn.bterys.com/mh000c/info.json"],
+  ["列宾", "http://s1.cdn.bterys.com/mh000d/info.json"],
+  ["门采尔", "http://s1.cdn.bterys.com/mh000g/info.json"],
+  ["米罗", "http://s1.cdn.bterys.com/mh000h/info.json"],
+  ["乔凡尼博蒂尼", "http://s1.cdn.bterys.com/mh000j/info.json"],
+
+  ["梵高", "http://s1.cdn.bterys.com/mh001/info.json"],
+  ["伦勃朗", "http://s1.cdn.bterys.com/mh005/info.json"],
+  ["波提切利", "http://s1.cdn.bterys.com/mh016/info.json"],
+
+  ["达芬奇", "http://s1.cdn.bterys.com/mh-025/info.json"],
+  ["丢勒", "http://s1.cdn.bterys.com/mh027/info.json"],
+  ["夏加尔", "http://s1.cdn.bterys.com/mh-030/info.json"],
+  ["现实主义 埃金斯", "http://s1.cdn.bterys.com/mh-076/info.json"]
 ]
