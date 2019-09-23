@@ -10,9 +10,19 @@
     <script src="https://unpkg.com/element-ui/lib/index.js"></script>
 </head>
 <body>
+  <div id="app">
     <el-container>
       <el-header>Header</el-header>
       <el-main>Main</el-main>
     </el-container>
+  </div>
 </body>
+<script>
+    new Vue({
+      el: '#app',
+      data: function() {
+        return { visible: false }
+      }
+    })
+</script>
 </html>
