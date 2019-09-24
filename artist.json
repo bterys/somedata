@@ -34,6 +34,7 @@
   ["布歇", "http://s1.cdn.bterys.com/mh022/info.json", 0],
   ["毕沙罗", "http://s1.cdn.bterys.com/mh023/info.json", 0],
   ["埃贡席勒", "http://s1.cdn.bterys.com/mh024/info.json", 0],
+  ["达芬奇", "http://s1.cdn.bterys.com/mh-025/info.json", 0],
   ["博纳尔", "http://s1.cdn.bterys.com/mh026/info.json", 0],
   ["丢勒", "http://s1.cdn.bterys.com/mh027/info.json", 0],
   ["托马斯劳伦斯", "http://s1.cdn.bterys.com/mh028/info.json", 0],
@@ -41,9 +42,10 @@
   ["夏加尔", "http://s1.cdn.bterys.com/mh-030/info.json", 0],
   ["亨利马丁", "http://s1.cdn.bterys.com/mh031/info.json", 0],
   ["惠斯勒", "http://s1.cdn.bterys.com/mh032/info.json", 0],
-
-  ["达芬奇", "http://s1.cdn.bterys.com/mh-025/info.json", 0],
-  ["丢勒", "http://s1.cdn.bterys.com/mh027/info.json", 0],
+  ["安格尔", "http://s1.cdn.bterys.com/mh034/info.json", 0],
+  ["米莱斯", "http://s1.cdn.bterys.com/mh035/info.json", 0],
+  ["阿尔玛", "http://s1.cdn.bterys.com/mh036/info.json", 0],
+  ["佐恩", "http://s1.cdn.bterys.com/mh037/info.json", 0],
 
   ["凡戴克", "http://s1.cdn.bterys.com/mh-71/info.json", 0],
 
