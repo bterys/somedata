@@ -76,9 +76,10 @@
   ["张大千", "http://s1.cdn.bterys.com/mh066/info.json", 0],
   ["赵无极", "http://s1.cdn.bterys.com/mh067/info.json", 0],
   ["小勃鲁盖尔", "http://s1.cdn.bterys.com/mh069/info.json", 0],
-
+  ["凡戴克", "http://s1.cdn.bterys.com/mh-71/info.json", 0],
   ["老勃鲁盖尔", "http://s1.cdn.bterys.com/mh072/info.json", 0],
   ["尤金加林拉洛", "http://s1.cdn.bterys.com/mh074/info.json", 0],
+  ["现实主义 埃金斯", "http://s1.cdn.bterys.com/mh-076/info.json", 0],
   ["里奥纳阿菲莫", "http://s1.cdn.bterys.com/mh077/info.json", 0],
   ["亨瑞赛蒂纳", "http://s1.cdn.bterys.com/mh078/info.json", 0],
   ["爱德华西戈", "http://s1.cdn.bterys.com/mh079/info.json", 0],
@@ -108,11 +109,8 @@
   ["帕特里克安吉尔", "http://s1.cdn.bterys.com/mh103/info.json", 0],
   ["朱德群", "http://s1.cdn.bterys.com/mh104/info.json", 0],
 
-  ["凡戴克", "http://s1.cdn.bterys.com/mh-71/info.json", 0],
-
-  ["现实主义 埃金斯", "http://s1.cdn.bterys.com/mh-076/info.json", 0],
-
   ["巴黎奥赛博物馆", "http://s1.cdn.bterys.com/mhg-3/info.json", 1],
+  ["荷兰阿姆斯特丹国家美术馆", "http://s1.cdn.bterys.com/mhg-8/info.json", 1],
   ["荷兰海牙市立美术馆", "http://s1.cdn.bterys.com/mhg-9/info.json", 1],
 
   ["威尼斯印象", "http://s1.cdn.bterys.com/mh033/info.json", 2]
